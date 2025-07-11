@@ -6,8 +6,8 @@
 🎓 Actualmente estudio la carrera de **Ingeniería Informática** en la **UMSS**.
 
 ⚽ Me apasiona el **fútbol** y disfruto mucho de la **música**.
-![Futbol](![Uploading image.png…]()
-)
+
+![Balón de fútbol](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Adidas_Final15_Beau_Jeu.jpg/960px-Adidas_Final15_Beau_Jeu.jpg)
 
 
 💬 Mi frase favorita es:

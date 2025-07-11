@@ -7,8 +7,7 @@
 
 ⚽ Me apasiona el **fútbol** y disfruto mucho de la **música**.
 
-![Balón de fútbol](balonFutbol.jpg)
-
+![balonFutbol](https://github.com/user-attachments/assets/6d5ba705-6837-40f5-9a04-40ffada0c6fa)
 
 💬 Mi frase favorita es:
 

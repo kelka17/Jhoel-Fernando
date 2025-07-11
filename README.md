@@ -1,6 +1,13 @@
 # Jhoel-Fernando
-Mi nombre es: Jhoel Fernando Quelca Ledezma
-Mi apodo: "sonrisas"
-Ahora me dedico a estudiar la carrea de Ingenieria Informatica es la UMSS.
-Me gusta el futbol y la musiica
-Mi frase favortia es “No tienes que ser grande para empezar, pero tienes que empezar para ser grande.”
+# 👋 Hola, soy Jhoel Fernando Quelca Ledezma
+
+🌟 También me conocen como **"sonrisas"** 😄
+
+🎓 Actualmente estudio la carrera de **Ingeniería Informática** en la **UMSS**.
+
+⚽ Me apasiona el **fútbol** y disfruto mucho de la **música**.
+
+💬 Mi frase favorita es:
+
+> **“No tienes que ser grande para empezar, pero tienes que empezar para ser grande.”**  
+> — Zig Ziglar
